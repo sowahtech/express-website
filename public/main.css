@@ -1,0 +1,67 @@
+#mb{
+    background-color: pink;
+    color: white;
+}
+
+#mbh{
+    font-size: 40pt;
+    margin-left: 350px;
+    margin-right: 350px;
+}
+
+#mbp1, #mbp2{
+    background-color: purple;
+    margin-left: 300px;
+    margin-right: 300px;
+    font-size: 20pt;
+    padding: 10px;
+}
+
+#ab{
+    background-color: cyan;
+    color: black;
+}
+
+#abh{
+    font-size: 40pt;
+    margin-left: 350px;
+    margin-right: 350px;
+}
+
+#abp1, #abp2{
+    background-color: purple;
+    color: blanchedalmond;
+    margin-left: 300px;
+    margin-right: 300px;
+    font-size: 20pt;
+    padding: 10px;
+}
+
+#abul{
+    background-color: purple;
+    color: blanchedalmond;
+    margin-left: 300px;
+    margin-right: 300px;
+    font-size: 20pt;
+    padding: 10px; 
+}
+
+#sb{
+    background-color: white;
+    color: purple;
+}
+
+#sbh{
+    font-size: 40pt;
+    margin-left: 300px;
+    margin-right: 300px;
+}
+
+#sbp1, #sbp2{
+    background-color: purple;
+    color: blanchedalmond;
+    margin-left: 300px;
+    margin-right: 300px;
+    font-size: 20pt;
+    padding: 10px;
+}
